@@ -25,10 +25,10 @@ Apesar de estar apenas iniciando minha jornada no mundo tech, estou ansiosa e an
 
 
 <a href="https://github.com/JoanaTav/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoanaTav&layout=compact&theme=ambient_gradient" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=JoanaTav&layout=compact&theme=ambient_gradient" />
 </a>
 <a href="https://github.com/JoanaTav/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoanaTav&layout=compact&theme=ambient_gradient&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoanaTav&layout=compact&theme=ambient_gradient&langs_count=8&card_width=320" />
 </a>
 
 
