@@ -21,9 +21,7 @@ Apesar de estar apenas iniciando minha jornada no mundo tech, estou ansiosa e an
 
 
 ![Joana Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=JoanaTav&show_icons=true&theme=ambient_gradient)
-
-
-
+ 
 
 
 
