@@ -22,7 +22,7 @@ Apesar de estar apenas iniciando minha jornada no mundo tech, estou ansiosa e an
 <h4 align="left"> ⚙️Ferramentas e Linguagens </h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,codepen,github" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,vscode,codepen,github" />
   </a>
 </p>
 <br>
